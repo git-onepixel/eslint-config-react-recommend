@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-react-recommend",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The eslint recommend configuration for react.",
   "main": "index.js",
   "scripts": {
