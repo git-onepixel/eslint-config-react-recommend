@@ -16,6 +16,7 @@ module.exports = {
   plugins: [],
   rules: {
     'no-console': 0,
+    'no-debugger': 0,
     'linebreak-style': 0,
     'import/no-extraneous-dependencies': 0,
     'import/order': 0,
@@ -24,6 +25,9 @@ module.exports = {
     'class-methods-use-this': 0,
     'react/jsx-props-no-spreading': 0,
     'react/jsx-filename-extension': 0,
+    'jsx-a11y/no-autofocus': 0,
+    'react/forbid-prop-types': 0,
+    'react/no-array-index-key': 1,
   },
   settings: {
     'import/ignore': ['node_modules'],
